@@ -1,5 +1,5 @@
 # app
-尚品汇商城项目
+尚品汇商城项目(vue 2.x)
 
 ## Project setup
 ```
@@ -20,6 +20,3 @@ npm run build
 ```
 npm run lint
 ```
-
-### Customize configuration
-
